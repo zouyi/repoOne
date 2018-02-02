@@ -1,0 +1,22 @@
+div {
+    display:block;
+}
+
+#display {
+    width:30vw;
+    height:300px;
+    background-color:aquamarine;
+    top:0px;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    margin:auto;
+    position:absolute;
+    text-align: center;
+}
+
+#control {
+    width:30vw;
+    margin:50px auto;
+    text-align: center;
+}
